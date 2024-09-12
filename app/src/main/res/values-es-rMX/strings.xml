@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="first_partial_title">Primer Parcial</string>
+    <string name="bmi_view_button">Ir a Vista BMI</string>
+    <string name="rock_paper_view_button">Ir a la vista de PiedraPapelTijeras </string>
+    <string name="water_view_button">Ir a la vista ConsumoAgua</string>
+    <string name="score_view_button">Ir a la vista Puntuacion</string>
+    <string name="sum_view_button">Ir a la vista Suma</string>
+    <string name="login_view_button">Ir a la Vista Login</string>
+    <string name="buttonlist_view_button">Ir a la Vista ListaBotones</string>
+    <string name="lottie_view_button">Ir a la Vista Lottie</string>
+    <string name="videobackg_view_button">Ir a la Vista VideoBackGround</string>
+    <string name="gymList_button">Ve a Vista de Gimnasios</string>
+    <string name="restaurantList_button">Ve a Vista de Restaurantes</string>
+    <string name="firstPartialTest_button">Ve a Vista de Examen Primer Parcial</string>
+    <string name="totalProduction_string">Producción Total</string>
+    <string name="currentProduction_string">Producción Actual</string>
+    <string name="percentage_string">Porcentaje</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="currentProduction_message">Número actual de manzanas: %1$s</string>
+    <string name="totalProduction_message">Número total de manzanas: %1$s</string>
+    <string name="password_string">Contraseña</string>
+    <string name="login_string">Iniciar sesión</string>
+</resources>

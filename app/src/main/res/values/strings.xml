@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="first_partial_title">Test</string>
+    <string name="bmi_view_button">Go to BMI View</string>
+    <string name="rock_paper_view_button">Go to RockPaperScissors View</string>
+    <string name="water_view_button">Go to Water View</string>
+    <string name="score_view_button">Go to Score View</string>
+    <string name="sum_view_button">Go to Sum View</string>
+    <string name="login_view_button">Go to BMI Go to Login View</string>
+    <string name="buttonlist_view_button">Go to ButtonList View</string>
+    <string name="lottie_view_button">Go to Lottie View</string>
+    <string name="videobackg_view_button">Go to Video BackGround</string>
+    <string name="gymList_button">Go to GymList View</string>
+    <string name="restaurantList_button">Go to RestaurantList View</string>
+    <string name="firstPartialTest_button">Go to First Partial Test View</string>
+    <string name="totalProduction_string">Total Production</string>
+    <string name="currentProduction_string">Current Production</string>
+    <string name="percentage_string">Percentage</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="currentProduction_message">Current number of apples: %1$s</string>
+    <string name="totalProduction_message">Total number of apples: %1$s</string>
+    <string name="password_string">Password</string>
+    <string name="login_string">Login</string>
+</resources>
